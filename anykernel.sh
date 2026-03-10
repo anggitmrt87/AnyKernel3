@@ -4,20 +4,15 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Valeryn kernel by frstprjkt@GitHub
+kernel.string=M•R•T Reborn by anggitmrt87@GitHub
 do.devicecheck=1
 do.modules=0
-do.systemless=0
+do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-do.dynamic_dtbo=1
-default.dtbo=lime
-device.name1=citrus
-device.name2=lime
-device.name3=lemon
-device.name4=pomelo
-device.name5=juice
-device.name6=chime
+device.name1=lime
+device.name2=lemon
+device.name3=pomelo
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
